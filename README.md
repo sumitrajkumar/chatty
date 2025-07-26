@@ -1,7 +1,7 @@
 # 💬 Chatty
 
 **Chatty** is a sleek, real-time one-on-one messaging platform featuring JWT authentication, media sharing, and a fully themeable UI. Built with React (Vite), Tailwind CSS, Express, Socket.IO, and MongoDB — designed for speed, simplicity, and style.
-
+[🎥 Click here to watch the demo video](./demo.mp4)
 ---
 
 ## 🚀 Features
